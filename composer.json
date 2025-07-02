@@ -19,6 +19,8 @@
         "fakerphp/faker": "^1.9.1",
         "orchestra/testbench-core": "^10.0.0",
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Asseco\\JsonQueryBuilder\\": "src/"
