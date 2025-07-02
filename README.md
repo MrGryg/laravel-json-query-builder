@@ -10,7 +10,7 @@ the special logic explained below.
 Install the package through composer. It is automatically registered
 as a Laravel service provider.
 
-`composer require asseco-voice/laravel-json-query-builder`
+`composer require mrgryg/laravel-json-query-builder`
 
 ## Usage
 
