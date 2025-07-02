@@ -17,7 +17,7 @@
         "phpunit/phpunit": "^10.0",
         "mockery/mockery": "^1.4.4",
         "fakerphp/faker": "^1.9.1",
-        "orchestra/testbench-core": "^10.0.0"
+        "orchestra/testbench": "^8.5"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
